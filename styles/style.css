@@ -1,3 +1,10 @@
 header {
 background: #0c0c0e;
 }
+
+.line {
+    width: 50px;
+    height: 1px;
+    background-color: black;
+}
+
