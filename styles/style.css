@@ -8,3 +8,17 @@ background: #0c0c0e;
     background-color: black;
 }
 
+.card {
+    width: 550px;
+    position: relative;
+}
+
+.card p {
+    line-height: 40px;
+}
+
+.card img {
+    position: absolute;
+    bottom: 0;
+    left: 400px;
+}
