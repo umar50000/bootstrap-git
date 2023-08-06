@@ -6,6 +6,7 @@ background: #0c0c0e;
     width: 50px;
     height: 1px;
     background-color: black;
+    background: #BB945F;
 }
 
 .card {
@@ -22,3 +23,4 @@ background: #0c0c0e;
     bottom: 0;
     left: 400px;
 }
+
