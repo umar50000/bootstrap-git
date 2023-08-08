@@ -24,3 +24,13 @@ background: #0c0c0e;
     left: 400px;
 }
 
+.find-border {
+    width: 600px;
+    border: 1px solid #BB945F;
+}
+
+.find {
+    background: #BB945F;
+    width: 560px;
+    margin: 0 auto;
+}
